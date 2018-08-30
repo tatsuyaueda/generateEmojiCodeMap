@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "generateEmojiCodeMap", "generateEmojiCodeMap\generateEmojiCodeMap.csproj", "{B6252BF7-D856-41C6-A6BC-500CD6F5A8F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6252BF7-D856-41C6-A6BC-500CD6F5A8F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6252BF7-D856-41C6-A6BC-500CD6F5A8F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6252BF7-D856-41C6-A6BC-500CD6F5A8F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6252BF7-D856-41C6-A6BC-500CD6F5A8F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBB07C35-F1B3-490E-AC65-F650774F8C68}
+	EndGlobalSection
+EndGlobal
