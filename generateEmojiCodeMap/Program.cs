@@ -34,7 +34,7 @@ namespace generateEmojiCodeMap
 
             var fileName = System.IO.Path.Combine(
                System.AppDomain.CurrentDomain.BaseDirectory,
-               DateTime.Now.ToString("emojiCodeMap_yyyyMMdd-hhmmss'.txt'")
+               DateTime.Now.ToString("'emojiCodeMap_'yyyyMMdd-hhmmss'.txt'")
             );
 
             Console.WriteLine("Output file:" + System.IO.Path.GetFileName(fileName));
